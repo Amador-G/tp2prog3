@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Ej3.aspx.cs" Inherits="Prog3TP2.Ej3" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Ejercicio3.aspx.cs" Inherits="Prog3TP2.Ej3" %>
 
 <!DOCTYPE html>
 
