@@ -30,6 +30,10 @@ namespace Prog3TP2
                 Tabla += "<tr>";
                 Tabla += "<td>" + txtProducto2.Text  + "</td>" + "<td>" + ProdCant2 + "</td>";
                 Tabla += "</tr>";
+                Tabla += "<tr>";
+                Tabla += "<td>" + "TOTAL"+ "</td>" + "<td>" + (ProdCant2+ProdCant1) + "</td>";
+                Tabla += "</tr>";
+
 
 
 
