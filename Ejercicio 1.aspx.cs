@@ -57,10 +57,7 @@ namespace Prog3TP2
 
                     Tabla += "</table>";
 
-
                     lblTabla.Text = Tabla;
-
-
                 }
                 else
                 {
